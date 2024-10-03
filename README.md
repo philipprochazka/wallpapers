@@ -1,11 +1,11 @@
-# Wallpaper Collection
+# Wallpaper Collection 
 
-
-
-Possibly the most common question I get from viewers of my [Youtube channel](https://www.youtube.com/c/DistroTube) is "Hey, can you give me a link to your wallpaper?"  Well, I have collected these wallpapers over a number of years and have no idea where I got most of them.  I have also renamed them all (giving them a number) so I don't even have their original filename.  So I am uploading my entire wallpaper directory for those that want/need them. 
+A Universal Remote Source for wallpapers
 
 ## Where Did I Get These?
 
+Thanks to Distro tube  for collecting a large number of wallpapers [Youtube channel](https://www.youtube.com/c/DistroTube) 
+His gitlab repo gave me a great starting point for this repository, I do have a collection o my own I can add later on. 
 I find wallpapers in a number of different locations but good places to check out include [Imgur](http://imgur.com) and [/wg/](http://4chan.org/wg).  Some of the wallpapers were probably included in default wallpaper packages from various Linux distributions that I have installed over the years.
 
 ## Style of Wallpapers
